@@ -1,0 +1,29 @@
+##gff-version 3
+##source-version geneious 6.0.5
+KC677631	Geneious	CDS	5	202	.	+	.	gene_id "AcFT1"; 
+KC677631	Geneious	CDS	843	904	.	+	.	gene_id "AcFT1"; 
+KC677631	Geneious	CDS	2857	2897	.	+	.	gene_id "AcFT1"; 
+KC677631	Geneious	CDS	2969	3204	.	+	.	gene_id "AcFT1"; 
+KC677632	Geneious	CDS	32	223	.	+	.	gene_id "AcFT3";
+KC677632	Geneious	CDS	979	1040	.	+	.	gene_id "AcFT3"; 
+KC677632	Geneious	CDS	1912	1952	.	+	.	gene_id "AcFT3"; 
+KC677632	Geneious	CDS	2029	2133	.	+	.	gene_id "AcFT3"; 
+KC677633	Geneious	CDS	2	575	.	+	.	gene_id "AcCO"; 
+KC677633	Geneious	CDS	1453	1791	.	+	.	gene_id "AcCO"; 
+KC677634	Geneious	CDS	83	197	.	+	.	gene_id "indeterminate_like protein"; 
+KC677634	Geneious	CDS	267	663	.	+	.	gene_id "indeterminate_like protein"; 
+KC677634	Geneious	CDS	752	853	.	+	.	gene_id "indeterminate_like protein"; 
+KC677635	Geneious	CDS	2357	2794	.	-	.	gene_id "Constanslike"; 
+KC677635	Geneious	CDS	1	20	.	-	.	gene_id "Constanslike"; 
+KC677636	Geneious	CDS	3	128	.	+	.	gene_id "AcFT4"; 
+KC677636	Geneious	CDS	292	353	.	+	.	gene_id "AcFT4"; 
+KC677636	Geneious	CDS	1462	1502	.	+	.	gene_id "AcFT4"; 
+KC677636	Geneious	CDS	1688	1923	.	+	.	gene_id "AcFT4"; 
+KC677637	Geneious	CDS	384	565	.	+	.	gene_id "SOC1like"; 
+KC677637	Geneious	CDS	1320	1401	.	+	.	gene_id "SOC1like"; 
+KC677638	Geneious	CDS	20	62	.	+	.	gene_id "AcFT5"; 
+KC677638	Geneious	CDS	155	371	.	+	.	gene_id "AcFT5"; 
+KC677638	Geneious	CDS	1226	1253	.	+	.	gene_id "AcFT5"; 
+KC677639	Geneious	CDS	1	737	.	+	.	gene_id VIN3like CDS";
+KC677640	Geneious	CDS	75	135	.	+	.	gene_id "AcFT2"; 
+KC677640	Geneious	CDS	208	437	.	+	.	gene_id "AcFT2"; 
