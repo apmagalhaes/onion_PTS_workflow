@@ -12,4 +12,9 @@ AUTHORS   Baldwin,S., Pither-Joyce,M., Wright,K., Revanna,R., Lee,R.,Macknight,R
 
 Raw data will be available at http://www.ncbi.nlm.nih.gov/bioproject/179106
 
+---
+The workflow assumes that BWA and samtools are in your PATH
 
+The analysis requires use of the excellent PoPoolation 1 and 2 family scripts. These may be downloaded and unpacked in this directory as described at https://code.google.com/p/popoolation/
+
+The workflow assumes these are present in folders in this directory. 
